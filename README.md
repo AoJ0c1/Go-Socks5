@@ -6,3 +6,10 @@ Golang 开箱即用 IP代理池利用工具
 
 
 食用方法：开箱即用，初次使用或增加新代理池需在同目录存放ip.txt文件，文件内容格式为IP:Port的格式。
+
+
+
+
+
+
+参考：https://github.com/pingc0y/go_proxy_pool
